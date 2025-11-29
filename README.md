@@ -30,7 +30,7 @@ All analysis is implemented in Python using Jupyter Notebook, leveraging Pandas,
 
 Files
 
-EDA Analysis.ipynb – complete EDA workflow
+EDA Assessment.ipynb – complete EDA workflow
 
 application_data.csv – main dataset
 
